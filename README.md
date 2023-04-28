@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @zubeegpro
-- 👀 I’m interested in job on python
-- 🌱 I’m currently learning python Ai
+- 👀 I’m interested in django related Job
 - 💞️ I’m looking to collaborate on any group work
 - 📫 How to reach me, you can contact me on my phone number: 09051756262
 
